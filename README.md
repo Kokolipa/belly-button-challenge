@@ -29,7 +29,7 @@ The JavaScript (**app.js**) plays as the backend of the dashboard and is divided
 #### Folder structure:
 ``` yml
 .
-├── nosql-challenge
+├── js-belly-button
 │   ├── Images 
 │   |   ├── belly_dashboard.png
 │   ├── static    
