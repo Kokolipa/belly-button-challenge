@@ -1,1 +1,27 @@
+# Crime Analysis [![Presentation](https://img.shields.io/badge/Presentation-black?style=flat&logo=AT&T)](https://docs.google.com/presentation/d/1TGgtrsVOVzgK9oL2wOtrSuxz2anh69CpDysVYDjF-t4/edit#slide=id.g23188ea39e2_0_61)
 # belly-button-challenge
+### Project description:
+
+
+### Libraries used: 
+1. Plotly
+2. D3
+
+### Languages used: 
+1. HTML - Frntend
+2. JavaScript - Backend
+
+#### Folder structure
+``` yml
+.
+├── nosql-challenge
+│   ├── static    
+│   |   ├── .gitkeep
+│   |   ├── app.js # This is the backend code for the dashboard
+│   ├── index.html # This is the frontend
+│   ├── samples.json # This json file contains the data used for the project                              
+|___.gitignore               
+|___README.md
+``` 
+
+
