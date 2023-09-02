@@ -23,6 +23,9 @@ The JavaScript (**app.js**) plays as the backend of the dashboard and is divided
 1. HTML - Frontend
 2. JavaScript - Backend
 
+### Dashboard Image:
+![belly-dashboard](https://github.com/Kokolipa/belly-button-challenge/blob/bb_main/Images/belly_dashboard.png)
+
 #### Folder structure:
 ``` yml
 .
