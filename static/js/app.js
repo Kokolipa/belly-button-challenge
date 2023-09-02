@@ -65,7 +65,7 @@ function modifyDashboard(selectedValue) {
         height: 600,
         width: 1200,
         title: {
-            text: `<b>Sample destribution of sample ${selectedValue}</b>`,
+            text: `<b>Sample distribution of sample ${selectedValue}</b>`,
             font: {
                 size: 22
             }
