@@ -1,4 +1,4 @@
-# belly-button-challenge [![Presentation](https://img.shields.io/badge/Presentation-black?style=flat&logo=atandt)](http://127.0.0.1:5500/index.html) 
+# belly-button-challenge [![Belly-Dashboard](https://img.shields.io/badge/Belly-Dashboard-black?style=flat&logo=atandt)](http://127.0.0.1:5500/index.html) 
 ### Project description:
 
 
@@ -7,7 +7,7 @@
 2. D3
 
 ### Languages used: 
-1. HTML - Frntend
+1. HTML - Frontend
 2. JavaScript - Backend
 
 #### Folder structure
