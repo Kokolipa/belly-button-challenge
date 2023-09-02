@@ -23,10 +23,12 @@ The JavaScript (**app.js**) plays as the backend of the dashboard and is divided
 1. HTML - Frontend
 2. JavaScript - Backend
 
-#### Folder structure
+#### Folder structure:
 ``` yml
 .
 ├── nosql-challenge
+│   ├── Images 
+│   |   ├── belly_dashboard.png
 │   ├── static    
 │   |   ├── .gitkeep
 │   |   ├── app.js # This is the backend code for the dashboard
