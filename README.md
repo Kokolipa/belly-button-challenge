@@ -1,4 +1,4 @@
-# belly-button-challenge [![Belly-Dashboard](https://img.shields.io/badge/Belly-Dashboard-black?style=flat&logo=atandt)](https://kokolipa.github.io/belly-button-challenge/) 
+# Belly Button Challenge [![Belly-Dashboard](https://img.shields.io/badge/Belly-Dashboard-black?style=flat&logo=atandt)](https://kokolipa.github.io/belly-button-challenge/) 
 ### Project description:
 Building an interactive dashboard to describe and explore the [Belly Button Biodiversity dataset](http://robdunnlab.com/projects/belly-button-biodiversity/) using JavaScript and HTML. The dataset reveals that a small handful of microbial species (also called operational taxonomic units, or OTUs, in the study) were present in more than 70% of people, while the rest were relatively rare.
 
